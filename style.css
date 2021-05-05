@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #77ffb4;
+    background-image: linear-gradient(to top, #08ff29 0%, #0da9b4 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -86,17 +86,17 @@
     width: 100%;
     border: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #62edf7;
     color: #fff;
 }
 
 .button:hover {
-    background: #4837ff;
+    background: #33314b;
     transition: all 0.3s ease;
 }
 
 .navbar__links {
-    color: #f77062;
+    color: #e6d5d3;
     transition: all 0.3s ease;
 }
 
@@ -204,8 +204,8 @@
 
 .main__content h1 {
     font-size: 4rem;
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #77dfff;
+    background-image: linear-gradient(to top, #0ddb6a 0%, #27bda9 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -215,8 +215,8 @@
 
 .main__content h2 {
     font-size: 4rem;
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+    background-color: #a01208;
+    background-image: linear-gradient(to top, #a53288 0%, #21d4fd 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -234,7 +234,7 @@
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+    background-image: linear-gradient(to top, #3ae634 0%, #05a6c2 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -261,7 +261,7 @@ top: 0;
 left: 0;
 width: 0;
 height: 100%;
-background: #4837ff;
+background: #24ecf3;
 transition: all 0.35s;
 border-radius: 4px;
 }
