@@ -10,7 +10,7 @@
     height: 80px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     font-size: 1.2rem;
     position: sticky;
     top: 0;
@@ -380,7 +380,7 @@ border-radius: 4px;
         rgba(0,0,0,0)0%,
         rgba(17,17,17,0.6)100%
         ),
-        url('/images/basic.jpg');
+        url('https://images.pexels.com/photos/2777898/pexels-photo-2777898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -391,7 +391,8 @@ border-radius: 4px;
         to bottom, 
         rgba(0,0,0,0)0%,
         rgba(17,17,17,0.6)100%
-    ),url('/images/code.jpg');
+    ),
+    url('https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
 }
 
 .services h2 {
